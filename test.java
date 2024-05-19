@@ -41,7 +41,7 @@ public class test {
         // System.out.println(obj2.getPriority());
         // obj2.setPriority(Thread.MAX_PRIORITY);
         // System.out.println(obj2.getPriority());
-        //
+        //git 
         //dfjkdjf
         obj1.start();
         obj2.start();
